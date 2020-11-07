@@ -40,7 +40,6 @@ INSTALLED_APPS = [
     'viewflow',
     'viewflow.frontend',
 
-    'dashboard',
     'clients',
 ]
 
